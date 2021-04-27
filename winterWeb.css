@@ -16,6 +16,7 @@ body {
   width: 200px;
   padding-left: 100px;
   margin-top: 50px;
+  cursor: pointer;
 }
 .links a:first-of-type {
   padding-left: 110px;
