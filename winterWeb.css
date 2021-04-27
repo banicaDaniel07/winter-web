@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("img/background.png");
+  overflow: hidden;
+}
+
+.links a {
+  color: black;
+  text-decoration: none;
+  font-size: 25px;
+  padding-left: 30px;
+  margin-top: 0;
+}
+.logo {
+  width: 200px;
+  padding-left: 100px;
+  margin-top: 50px;
+}
+.links a:first-of-type {
+  padding-left: 110px;
+}
+.links img:last-of-type {
+  width: 50px;
+  float: right;
+  margin: 50px;
+  cursor: pointer;
+}
+
+.links a:hover {
+  color: red;
+}
+
+.mid {
+  margin: 200px 0 0 300px;
+}
+.mid p:first-of-type {
+  margin: 0;
+  background-color: pink;
+  padding: 10px;
+  width: 160px;
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  text-align: center;
+}
+.mid h1 {
+  font-size: 70px;
+  width: 600px;
+  font-weight: 400;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.mid p:last-of-type {
+  color: grey;
+  font-size: 24px;
+  margin-top: 0;
+}
+.google {
+  width: 50px;
+}
+.mid img:last-of-type {
+  width: 50px;
+  margin-left: 30px;
+}
+.wall {
+  position: absolute;
+  top: 3%;
+  left: 43%;
+}
+
+/*   */
